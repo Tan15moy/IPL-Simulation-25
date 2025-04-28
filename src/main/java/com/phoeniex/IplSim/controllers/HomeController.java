@@ -11,7 +11,4 @@ public class HomeController {
 	public String home() {
 		return "home";
 	}
-
-	//Edit in GitHub & Test Git Pull
-	
 }
