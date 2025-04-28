@@ -1,0 +1,6 @@
+com\phoeniex\IplSim\config\DispatcherServletInitializer.class
+com\phoeniex\IplSim\models\User.class
+com\phoeniex\IplSim\config\ServletConfig.class
+com\phoeniex\IplSim\controllers\HomeController.class
+com\phoeniex\IplSim\controllers\UserController.class
+com\phoeniex\IplSim\IplSimApplication.class
